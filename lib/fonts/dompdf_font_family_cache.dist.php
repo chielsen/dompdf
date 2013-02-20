@@ -6,6 +6,13 @@
     'italic' => DOMPDF_FONT_DIR . 'Helvetica-Oblique',
     'bold_italic' => DOMPDF_FONT_DIR . 'Helvetica-BoldOblique',
   ),
+  'calibri' => 
+  array (
+    'normal' => DOMPDF_FONT_DIR . 'calibri',
+    'bold' => DOMPDF_FONT_DIR . 'calibrib',
+    'italic' => DOMPDF_FONT_DIR . 'calibrii',
+    'bold_italic' => DOMPDF_FONT_DIR . 'calibribi',
+  ),
   'times' => 
   array (
     'normal' => DOMPDF_FONT_DIR . 'Times-Roman',
