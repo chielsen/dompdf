@@ -108,4 +108,11 @@
     'italic' => DOMPDF_FONT_DIR . 'DejaVuSerifCondensed-Italic',
     'normal' => DOMPDF_FONT_DIR . 'DejaVuSerifCondensed',
   ),
+  'calibri' => 
+  array (
+    'normal' => DOMPDF_FONT_DIR . 'calibri',
+    'bold' => DOMPDF_FONT_DIR . 'calibrib',
+    'italic' => DOMPDF_FONT_DIR . 'calibrii',
+    'bold_italic' => DOMPDF_FONT_DIR . 'calibribi',
+  ),
 ) ?>
