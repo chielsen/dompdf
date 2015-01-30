@@ -24,7 +24,7 @@ define("DOMPDF_ENABLE_REMOTE", true);
 //define("DEBUG_LAYOUT_PADDINGBOX", false);
 //define("DOMPDF_LOG_OUTPUT_FILE", DOMPDF_FONT_DIR."log.htm");
 //define("DOMPDF_ENABLE_HTML5PARSER", true);
-define("DOMPDF_ENABLE_FONTSUBSETTING", true);
+define("DOMPDF_ENABLE_FONTSUBSETTING", false);
 
 // DOMPDF authentication
 //define("DOMPDF_ADMIN_USERNAME", "user");
