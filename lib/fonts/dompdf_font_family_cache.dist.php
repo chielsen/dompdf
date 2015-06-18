@@ -115,4 +115,20 @@
     'italic' => DOMPDF_DIR . '/lib/fonts/DejaVuSerifCondensed-Italic',
     'normal' => DOMPDF_DIR . '/lib/fonts/DejaVuSerifCondensed',
   ),
+  'museo300' => 
+  array (
+    'normal' => DOMPDF_FONT_DIR . '883bd454dd24f01adc308c499f8c8421',
+  ),
+  'museo500' => 
+  array (
+    'normal' => DOMPDF_FONT_DIR . '159e156e8a5345ea2c3acb449a609606',
+  ),
+  'museo700' => 
+  array (
+    'normal' => DOMPDF_FONT_DIR . 'dd990b696cf62063020449d89eff305f',
+  ),
+  'museo900' => 
+  array (
+    'normal' => DOMPDF_FONT_DIR . '1ede4765bfff0ed929685f1dfd9b1031',
+  ),
 ) ?>
